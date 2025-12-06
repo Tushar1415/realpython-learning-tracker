@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# HTML Cache (local cache, don't commit)
+html_cache/
+
+# Output files (generated Excel files)
+output/
+*.xlsx
+
+# Analysis files (temporary debugging files)
+analysis/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
